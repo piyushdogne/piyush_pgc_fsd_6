@@ -13,5 +13,5 @@ A weather forecast application built using JavaScript, HTML, and Tailwind CSS. I
 ## Setup Instructions
 Clone the repository:
 ```sh
-   git clone https://github.com/your-username/weather-forecast-app.git
-   cd weather-forecast-app
+   git clone https://github.com/piyushdogne/piyush_pgc_fsd_6.git
+   cd piyush_pgc_fsd_6
